@@ -13,5 +13,5 @@ List of Topics:
 |  Team 	    | Topic             | Name of Desktop machine
 | :-------:   | :---------------: | :-----------------------: | 
 |   Raupi     | 6(alternativ 4)   |
-| Amer/Manh   | 2(alternativ 6)   |
+| Amer/Manh   | 5(alternativ 6)   |
 |             |                   |
